@@ -1,2 +1,3 @@
-# Haftalik_Ders_Calisma_Programi
-Available on Play Store
+# ders_calisma_programi
+
+Soru çözme gelişimimizi takip edebildiğimiz ders çalışma programı
